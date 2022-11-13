@@ -1,0 +1,39 @@
+{
+    "name": "ramesh-dada/realtime",
+    "description": "Realtime Posts with Jugaad",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "BSL-1.0",
+    "require": {
+        "flarum/core": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "RameshDada",
+            "homepage": "https://discuss.flarum.org/u/1Dot",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ramesh-dada/realtime/issues",
+        "source": "https://github.com/ramesh-dada/realtime"
+    },
+    "autoload": {
+        "psr-4": {
+            "RameshDada\\Realtime\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "FREE Forever Realtime Posts",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-eye",
+                "backgroundColor": "#684ba6",
+                "color": "#fff"
+            }
+        }
+    }
+}
