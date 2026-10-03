@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of ramesh-dada/realtime.** Not for installation: use [Packagist](https://packagist.org/packages/ramesh-dada/realtime) or the [upstream repository](https://github.com/ramesh-dada/realtime).
 
-**0** versions archived · Latest: [`100.2`](https://github.com/flarchive/ramesh-dada-realtime/tree/archive/v100.2) · License: `BSL-1.0` · Flarum: `^1.0`
+**1** versions archived · Latest: [`100.2`](https://github.com/flarchive/ramesh-dada-realtime/tree/archive/v100.2) · License: `BSL-1.0` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `100.2` | 2022-11-13 | `^1.0` | [Browse](https://github.com/flarchive/ramesh-dada-realtime/tree/archive/v100.2) |
 
 Catalog entry: [packages/ramesh-dada-realtime.json](https://github.com/flarchive/archive-index/blob/main/packages/ramesh-dada-realtime.json)
 
